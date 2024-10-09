@@ -21,6 +21,7 @@
 package main
 
 import (
+	_ "github.com/abasse/beehive/bees/filewriterbee"
 	_ "github.com/muesli/beehive/bees/alertoverbee"
 	_ "github.com/muesli/beehive/bees/anelpowerctrlbee"
 	_ "github.com/muesli/beehive/bees/cfddnsbee"
